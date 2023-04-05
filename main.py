@@ -26,7 +26,7 @@ class Cancion:
             self.album = album
         if ano is not None:
             self.ano = ano
-        def mostrar_cancion(self):
+    def mostrar_cancion(self):
         print('Nombre:', self.nombre)
         print('Compositor:', self.compositor)
         print('Cantante:', self.cantante)
