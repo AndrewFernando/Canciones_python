@@ -56,5 +56,3 @@ c2.buscar_cancion("Bohemian")
 
 c1.modificar_cancion("Bohemian REMIX","Freddy","Queen","A night of Opera",1977)
 c1.mostrar_cancion()
-c4 = Cancion("Du hast","Rammstein","Rammstein","Sehnsucht",1997)
-c4.eliminar_cancion()
